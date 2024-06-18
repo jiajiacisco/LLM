@@ -7,7 +7,7 @@
 Chatbot that you can interact with and ask questions about the PDF documents you uploaded into the file directory or through the drag-down UI <br/>
 
 **Product Overview**<br/>
-1. **Starting the app**:<space> Run `streamlit run app.py` to start the app  <br/>
+1. **Starting the app**:<space> Upload pdf doucements into the local directory. Run `streamlit run app.py` to start the app  <br/>
 ![App Interface Diagram](https://github.com/jiajiacisco/LLM/blob/main/images/a1.png)
 2. **Loading the documents>** Wait some time until the PDF documents are embedded and indexed into the vector database <br/>
 ![App Interface Diagram](https://github.com/jiajiacisco/LLM/blob/main/images/a2.png)
