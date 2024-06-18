@@ -18,7 +18,7 @@ Chatbot that you can interact with and ask questions about the PDF documents you
 ![App Interface Diagram](https://github.com/jiajiacisco/LLM/blob/main/images/a4.png)
 
 # App Design <br />
-![Overall Block Diagram](https://github.com/jiajiacisco/LLM/blob/main/images/a5.png)
+![Overall Block Diagram](https://github.com/jiajiacisco/LLM/blob/main/images/a6.png)
 
 **Technolgies Used:** 
 Streamlit, Python, FAISS, Huggingface and LangChain
