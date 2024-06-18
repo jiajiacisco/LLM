@@ -1,17 +1,18 @@
 # LLM RAG Model
 
-**Background:** <br/> Explore open-source frameworks to build a LLM with enterprise use case such as document retrieval and summarization 
+**Background:** <br/> Utilise open-source frameworks to build a LLM that uses RAG for enterprise document retrieval and summarization 
 <br/>
+
 **Product Description:** <br/>
-Chatbot where you can interact and ask questions about the PDF documents you uploaded into the file directory or through drag-down UI <br/>
+Chatbot that you can interact with and ask questions about the PDF documents you uploaded into the file directory or through the drag-down UI <br/>
 
 **Product Overview**<br/>
-1. **Starting the app**:<space> `streamlit run app.py`  Enter your Webex Admin API Token that is obtainable from Webex Control Hub <br/>
+1. **Starting the app**:<space> Run `streamlit run app.py` to start the app  <br/>
 ![App Interface Diagram](https://github.com/jiajiacisco/LLM/blob/main/images/a.png)
-2. **Wait some time until the documents are embedded and indexed>** Select the time period and input the user emails you wish to query <br/>
-![App Interface Diagram](https://github.com/jiajiacisco/LLM/blob/main/images/a.png)
-3. **Begin Interaction** Select the time period and drop a CSV file containing user emails you wish to query <br/>
-![App Interface Diagram](https://github.com/jiajiacisco/LLM/blob/main/images/a.png)
+2. **Loading the documents>** Wait some time until the PDF documents are embedded and indexed into the vector database <br/>
+![App Interface Diagram](https://github.com/jiajiacisco/LLM/blob/main/images/b.png)
+3. **Begin Interaction** Since documents are Cisco SD-WAN related the questions will also be based on SD-WAN <br/>
+![App Interface Diagram](https://github.com/jiajiacisco/LLM/blob/main/images/c.png)
 
 # App Design <br />
 ![Overall Block Diagram]
