@@ -12,7 +12,10 @@ Chatbot that you can interact with and ask questions about the PDF documents you
 2. **Loading the documents>** Wait some time until you see the done on the side bar as the PDF documents need to be embedded and indexed into the vector database <br/>
 ![App Interface Diagram](https://github.com/jiajiacisco/LLM/blob/main/images/a2.png)
 3. **Begin Interaction** Since documents loaded are Cisco SD-WAN related, the questions will be based on SD-WAN <br/>
+**Simple General Questions<br/>
 ![App Interface Diagram](https://github.com/jiajiacisco/LLM/blob/main/images/a3.png)
+**Semantic Questions (Singular vs Plural) and More Complex Questions<br/>
+![App Interface Diagram](https://github.com/jiajiacisco/LLM/blob/main/images/a4.png)
 
 # App Design <br />
 ![Overall Block Diagram]
